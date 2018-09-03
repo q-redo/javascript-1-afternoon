@@ -6,6 +6,7 @@
 //plus the value of the name parameter.
 
 //Code here
+afdskjfklsadjfkldjsaf
 
 //////////////////PROBLEM 2////////////////////
 
@@ -13,6 +14,10 @@
 //Name it newGreeting.
 
 //Code Here
+
+function() {
+  ... stuff
+}
 
 //////////////////PROBLEM 3////////////////////
 
